@@ -1,0 +1,17 @@
+#include <iostream>
+using namespace std;
+
+int main(){
+
+//we can use endl to write new line
+
+cout << "Hello" << endl;
+cout << "World" ;
+
+//or we can use \n 
+
+cout << "Hello \n World" ;
+
+return 0;
+
+}
