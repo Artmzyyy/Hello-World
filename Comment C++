@@ -1,0 +1,10 @@
+#include <iostream>
+using namespace std;
+
+int main(){
+
+//we can use '//' for a comment in c++
+//as a comment we can't show this code (input) to output because we use '//' for comment
+
+}
+return 0;
